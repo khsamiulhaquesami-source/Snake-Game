@@ -1,0 +1,112 @@
+# ============================================
+# Unity (SnakeGame)
+# ============================================
+
+# Unity generated folders
+SnakeGame/Library/
+SnakeGame/Temp/
+SnakeGame/Obj/
+SnakeGame/Build/
+SnakeGame/Builds/
+SnakeGame/Logs/
+SnakeGame/UserSettings/
+SnakeGame/MemoryCaptures/
+SnakeGame/Recordings/
+
+# Unity asset store tools cache
+SnakeGame/Assets/AssetStoreTools*
+
+# Visual Studio / Rider cache in Unity project
+SnakeGame/.vs/
+SnakeGame/.vscode/
+SnakeGame/.idea/
+
+# Auto-generated Visual Studio/Rider project files
+SnakeGame/*.csproj
+SnakeGame/*.unityproj
+SnakeGame/*.sln
+SnakeGame/*.slnx
+SnakeGame/*.suo
+SnakeGame/*.tmp
+SnakeGame/*.user
+SnakeGame/*.userprefs
+SnakeGame/*.pidb
+SnakeGame/*.booproj
+SnakeGame/*.svd
+SnakeGame/*.pdb
+SnakeGame/*.mdb
+SnakeGame/*.opendb
+SnakeGame/*.VC.db
+
+# Unity3D generated meta files (keep .meta for Assets)
+SnakeGame/*.pidb.meta
+SnakeGame/*.pdb.meta
+SnakeGame/*.mdb.meta
+
+# Unity3D generated file on crash reports
+SnakeGame/sysinfo.txt
+
+# Crashlytics
+SnakeGame/crashlytics-build.properties
+
+# Builds
+SnakeGame/*.apk
+SnakeGame/*.aab
+SnakeGame/*.unitypackage
+SnakeGame/*.app
+
+# Recovery folder (auto-generated)
+SnakeGame/Assets/_Recovery/
+
+# OS generated
+SnakeGame/.DS_Store
+SnakeGame/Thumbs.db
+
+# ============================================
+# .NET / ASP.NET Core (SnakeGameAPI)
+# ============================================
+
+# Build results
+SnakeGameAPI/**/bin/
+SnakeGameAPI/**/obj/
+
+# Visual Studio cache/settings
+SnakeGameAPI/.vs/
+SnakeGameAPI/.vscode/
+SnakeGameAPI/.idea/
+SnakeGameAPI/**/*.suo
+SnakeGameAPI/**/*.user
+SnakeGameAPI/**/*.userosscache
+SnakeGameAPI/**/*.sln.docstates
+
+# NuGet Packages
+SnakeGameAPI/**/packages/
+
+# User-specific files
+SnakeGameAPI/**/*.rsuser
+SnakeGameAPI/**/*.csproj.user
+
+# Publish/deploy output
+SnakeGameAPI/**/publish/
+
+# SQL Server files
+SnakeGameAPI/**/*.mdf
+SnakeGameAPI/**/*.ldf
+SnakeGameAPI/**/*.ndf
+
+# ============================================
+# General
+# ============================================
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# IDE files at root level
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
